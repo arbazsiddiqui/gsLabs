@@ -1,0 +1,3 @@
+[submodule "gs"]
+	path = gs
+	url = git@github.com:arbazsiddiqui/gs.git
